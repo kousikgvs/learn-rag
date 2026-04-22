@@ -1,0 +1,22 @@
+# Core ML & embeddings
+sentence-transformers
+torch
+transformers
+
+# Vector search
+faiss-cpu
+
+# BM25 retrieval
+rank_bm25
+
+# LLM APIs
+langchain
+langchain_groq
+langchain_core
+
+# Data handling
+numpy
+pandas
+
+# Environment variables
+python-dotenv
