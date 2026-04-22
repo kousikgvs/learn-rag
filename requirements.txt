@@ -13,6 +13,7 @@ rank_bm25
 langchain
 langchain_groq
 langchain_core
+langchain_community
 
 # for chunking
 langchain-text-splitters
