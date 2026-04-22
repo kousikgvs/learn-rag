@@ -14,6 +14,15 @@ langchain
 langchain_groq
 langchain_core
 
+# for chunking
+langchain-text-splitters
+
+# NLTK library for text splitting
+nltk
+
+#spacy library for text splitting
+spacy
+
 # Data handling
 numpy
 pandas
