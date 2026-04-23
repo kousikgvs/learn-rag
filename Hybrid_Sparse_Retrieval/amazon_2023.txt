@@ -1,0 +1,17 @@
+company_name: Amazon
+year: 2023
+ticker: AMZN
+fiscal_period: FY 2023
+headquarters: Seattle, Washington, United States
+ceo: Andy Jassy
+founded: 1994
+industry: E-commerce, cloud computing, digital advertising, logistics, streaming, AI
+revenue_usd_billions: 574.7
+net_income_usd_billions: 30.4
+employee_count: 1525000
+
+Amazon is a multinational technology company best known for e-commerce, Amazon Web Services (AWS), digital advertising, logistics, devices, and streaming services. The company was founded by Jeff Bezos in 1994, and Andy Jassy served as chief executive officer in 2023. Amazon's operating model combines first-party retail, a large third-party marketplace, subscription services such as Prime, and a fast-growing cloud business through AWS.
+
+In 2023, Amazon reported approximately $574.7 billion in revenue and about $30.4 billion in net income. The year reflected a strong recovery in profitability after the weaker 2022 period. Amazon continued to focus on operational efficiency, cost discipline, and improving fulfillment speed across its retail network.
+
+AWS remained one of Amazon's most strategically important businesses in 2023, supporting enterprise cloud workloads, data infrastructure, machine learning, and generative AI adoption. Amazon also continued expanding its advertising business and strengthening Prime's role in customer retention. Across the broader company, management emphasized customer obsession, long-term investment, and continued innovation in fulfillment, cloud services, and AI-enabled experiences.

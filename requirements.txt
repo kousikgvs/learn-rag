@@ -5,6 +5,7 @@ transformers
 
 # Vector search
 faiss-cpu
+qdrant-client
 
 # BM25 retrieval
 rank_bm25

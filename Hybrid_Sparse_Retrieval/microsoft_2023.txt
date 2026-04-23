@@ -1,0 +1,17 @@
+company_name: Microsoft
+year: 2023
+ticker: MSFT
+fiscal_period: FY 2023
+headquarters: Redmond, Washington, United States
+ceo: Satya Nadella
+founded: 1975
+industry: Software, cloud computing, AI, productivity software, gaming, devices
+revenue_usd_billions: 211.9
+net_income_usd_billions: 72.4
+employee_count: 221000
+
+Microsoft is a global technology company focused on software, cloud infrastructure, developer tools, productivity platforms, AI, gaming, and enterprise services. Founded in 1975, the company operates across major business groups that include Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Satya Nadella served as chairman and chief executive officer in fiscal year 2023.
+
+In fiscal year 2023, Microsoft reported a record $211.9 billion in revenue and $72.4 billion in net income. The company highlighted strong demand for Azure, Office 365 Commercial, LinkedIn, and Dynamics, while some consumer and device categories were weaker. Microsoft Cloud revenue reached $111.6 billion for the year.
+
+The 2023 period was marked by Microsoft's accelerated push into generative AI. The company emphasized Azure OpenAI Service, Microsoft 365 Copilot, GitHub Copilot, security offerings, and enterprise AI tooling across the stack. Microsoft also continued to position Azure, data platforms, developer tools, and productivity applications as core assets for enterprise AI adoption.

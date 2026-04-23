@@ -1,0 +1,17 @@
+company_name: Amazon
+year: 2024
+ticker: AMZN
+fiscal_period: FY 2024
+headquarters: Seattle, Washington, United States
+ceo: Andy Jassy
+founded: 1994
+industry: E-commerce, cloud computing, digital advertising, logistics, streaming, AI
+revenue_usd_billions: 637.9
+net_income_usd_billions: 59.2
+employee_count: 1556000
+
+Amazon is a global technology company with major businesses in online retail, AWS cloud infrastructure, advertising, logistics, Prime subscriptions, and digital media. Founded in 1994, Amazon has evolved from an online bookstore into one of the world's largest companies by revenue, with AWS and advertising adding major high-margin growth engines alongside retail.
+
+In 2024, Amazon reported approximately $637.9 billion in revenue and about $59.2 billion in net income. The year showed continued top-line growth and a substantial improvement in earnings. Amazon benefited from stronger operating efficiency, improved retail margins, and ongoing expansion in cloud and advertising.
+
+During 2024, Amazon continued investing in AI-related infrastructure, AWS capabilities, and logistics optimization. AWS remained central to Amazon's enterprise position as organizations increased spending on cloud, data platforms, and generative AI workloads. Amazon also maintained a broad ecosystem that included Prime, Whole Foods Market, Twitch, Ring, Audible, MGM-related media assets, and other consumer and enterprise services.

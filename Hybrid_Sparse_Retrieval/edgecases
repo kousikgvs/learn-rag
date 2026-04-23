@@ -1,0 +1,44 @@
+how do we handle filtering of chunks ?
+when user prompts how can we extract the words for filtering the chunks ? how do we handle aliases ?
+
+So when user gives a prompt 
+
+1) we can make a LLM call with strict output parsing to extract data.
+2) Named entity recognition to extract the keywords using NLP models.
+3) handling aliases 
+    | User says | Stored metadata     |
+    | --------- | ------------------- |
+    | MSFT      | Microsoft           |
+    | Google    | Alphabet            |
+    | FB        | Meta                |
+    | AWS       | Amazon Web Services |
+4) when aliases are completely unknown then like below
+    "Azure OpenAI"
+    "MS cloud AI"
+
+    e1 = embedding("MSFT")
+    e2 = embedding("Microsoft")
+    
+    if e1 and e2 have good cosine similarity then choose else leave it.
+    Instead of we ourselfs doing embedding we can use online python libraries for checking similarity between 2 words.
+
+
+User query
+   ↓
+Fast entity extraction
+   ↓
+Alias normalization
+   ↓
+If ambiguous → LLM extraction
+   ↓
+Metadata filter
+
+
+✅ regex + NER for most queries
+✅ LLM only when necessary
+
+an another approach would be same as working as for recommendation systems.
+when given a movie name incorrectly , python packages are available for finding similar names.
+
+NER + REGEX -> extract keywords -> compare with array -> form the JSON is also an another good approach.
+

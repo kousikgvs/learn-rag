@@ -1,0 +1,17 @@
+company_name: Microsoft
+year: 2024
+ticker: MSFT
+fiscal_period: FY 2024
+headquarters: Redmond, Washington, United States
+ceo: Satya Nadella
+founded: 1975
+industry: Software, cloud computing, AI, productivity software, gaming, devices
+revenue_usd_billions: 245.1
+net_income_usd_billions: 88.1
+employee_count: 228000
+
+Microsoft is a multinational technology company whose core businesses span enterprise software, cloud computing, developer platforms, AI services, security, business applications, gaming, and devices. Its major operating segments remain Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Satya Nadella led the company through fiscal year 2024.
+
+In fiscal year 2024, Microsoft reported $245.1 billion in revenue and $88.1 billion in net income, both records for the company. Management cited broad-based growth across all segments, with particularly strong performance in Azure, Microsoft Cloud, Office Commercial, and gaming. Microsoft Cloud revenue increased to $137.4 billion.
+
+Fiscal year 2024 also reflected Microsoft's deeper transition from talking about AI to commercializing AI products at scale. The company expanded Copilot offerings, Azure AI services, data platform capabilities, and cloud infrastructure investments. The year also included the completed Activision Blizzard acquisition, which expanded Microsoft's gaming business and content portfolio.
