@@ -15,3 +15,31 @@ Amazon is a multinational technology company best known for e-commerce, Amazon W
 In 2023, Amazon reported approximately $574.7 billion in revenue and about $30.4 billion in net income. The year reflected a strong recovery in profitability after the weaker 2022 period. Amazon continued to focus on operational efficiency, cost discipline, and improving fulfillment speed across its retail network.
 
 AWS remained one of Amazon's most strategically important businesses in 2023, supporting enterprise cloud workloads, data infrastructure, machine learning, and generative AI adoption. Amazon also continued expanding its advertising business and strengthening Prime's role in customer retention. Across the broader company, management emphasized customer obsession, long-term investment, and continued innovation in fulfillment, cloud services, and AI-enabled experiences.
+
+Additional operating context for Amazon in 2023:
+
+Amazon's business model in 2023 can be viewed as a mix of several large engines: online stores, third-party seller services, AWS, advertising, subscription services, and physical stores. This matters because Amazon is not only a retailer. It is also a platform company that earns fees from marketplace sellers, monetizes demand through sponsored product advertising, and uses Prime to increase purchase frequency and customer loyalty.
+
+The marketplace remained a major strategic asset. Third-party sellers use Amazon's storefront, payments infrastructure, and logistics network to reach customers. Fulfillment by Amazon, often abbreviated FBA, lets merchants store inventory in Amazon facilities while Amazon handles picking, packing, shipping, customer service, and some returns workflows. For chunking tests, this creates an example of a single company document that blends retail, software platform, payments, and logistics concepts in one corpus entry.
+
+Amazon's logistics footprint continued to be a core differentiator in 2023. The company operated a large network of fulfillment centers, sortation centers, delivery stations, and transportation assets across multiple regions. Its logistics stack included Amazon Air, Amazon Freight, Amazon Logistics, Flex drivers, and same-day or next-day delivery capabilities in selected markets. Management's efficiency focus in 2023 was partly about getting more output from that network while lowering cost to serve.
+
+The consumer ecosystem around Amazon extended beyond the main shopping site. Prime combined shipping benefits with digital media services such as Prime Video and Amazon Music. The company also owned businesses and brands including Whole Foods Market, Audible, Twitch, Ring, IMDb, and MGM-related media assets. Devices and services such as Kindle, Echo, Alexa, Fire TV, and Fire tablets helped Amazon stay present in households outside the checkout flow.
+
+AWS in 2023 was central to Amazon's enterprise narrative. It provided infrastructure and platform services for storage, compute, databases, analytics, security, application development, and AI workloads. Historically important AWS services include Amazon S3 for storage and Amazon EC2 for compute, and by 2023 AWS was also a major platform for machine learning and generative AI experimentation. The AWS business is strategically important because it tends to carry much higher margins than first-party retail.
+
+Amazon also continued investing in automation and robotics across operations. Warehouse automation, inventory routing, software orchestration, and robotics-assisted handling were all part of the company's broader effort to improve speed and productivity. These themes are useful for retrieval experiments because they connect operational efficiency language with fulfillment, supply chain, and AI or automation terminology.
+
+Selected company facts and entities relevant to 2023 chunking experiments:
+Amazon founder: Jeff Bezos
+Amazon CEO in 2023: Andy Jassy
+Major cloud business: Amazon Web Services
+Marketplace support program: Fulfillment by Amazon
+Major subscription program: Prime
+Selected subsidiaries or brands: Whole Foods Market, Twitch, Ring, Audible, IMDb
+Selected devices and platforms: Kindle, Echo, Alexa, Fire TV, Fire tablet
+Selected strategic themes in 2023: cost discipline, fulfillment speed, advertising growth, cloud demand, generative AI
+
+Analyst-style summary for retrieval testing:
+
+An analyst reading Amazon's 2023 profile would likely note that the company had regained profit momentum after a difficult 2022, while still balancing multiple business identities at once. Amazon was simultaneously a retailer, a marketplace operator, a cloud infrastructure provider, an advertising platform, a subscription business, a logistics network, and a consumer technology ecosystem. That overlap makes Amazon a strong test case for chunking because relevant answers may live in different semantic neighborhoods even within a single source document.

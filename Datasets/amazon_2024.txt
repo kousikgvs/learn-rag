@@ -15,3 +15,30 @@ Amazon is a global technology company with major businesses in online retail, AW
 In 2024, Amazon reported approximately $637.9 billion in revenue and about $59.2 billion in net income. The year showed continued top-line growth and a substantial improvement in earnings. Amazon benefited from stronger operating efficiency, improved retail margins, and ongoing expansion in cloud and advertising.
 
 During 2024, Amazon continued investing in AI-related infrastructure, AWS capabilities, and logistics optimization. AWS remained central to Amazon's enterprise position as organizations increased spending on cloud, data platforms, and generative AI workloads. Amazon also maintained a broad ecosystem that included Prime, Whole Foods Market, Twitch, Ring, Audible, MGM-related media assets, and other consumer and enterprise services.
+
+Additional operating context for Amazon in 2024:
+
+By 2024, Amazon's operating profile was increasingly shaped by the interaction of high-volume retail and higher-margin service businesses. The company still generated enormous sales from e-commerce, but AWS, advertising, seller services, and subscriptions played an outsized role in profitability and strategic positioning. This mix is helpful for chunking experiments because the same company record contains retail language, enterprise technology language, and media or subscription language.
+
+Amazon's e-commerce platform remained anchored in online stores and third-party seller services. A large portion of customer demand flowed through the marketplace model, where merchants paid for access to traffic, fulfillment capabilities, advertising inventory, and transaction infrastructure. Sponsored listings and retail media continued to make advertising a major business line tied directly to purchase intent.
+
+The company's logistics and fulfillment network remained one of its strongest competitive assets. Amazon continued optimizing regional fulfillment, delivery routing, and inventory placement to support faster delivery times and better unit economics. The logistics system included fulfillment centers, sortation centers, last-mile delivery stations, contracted delivery partners, air cargo capacity, and a growing stack of software, robotics, and planning tools.
+
+In 2024, Amazon also kept expanding AI-related initiatives across both retail and cloud. On the consumer side, Amazon introduced and rolled out Rufus, a shopping-focused AI assistant designed to help customers compare products and make buying decisions. On the enterprise side, AWS continued supporting generative AI workloads, data infrastructure, model deployment, and application development for organizations building AI systems.
+
+The Amazon ecosystem extended well beyond retail checkouts. Prime remained a central retention product linking shopping benefits with streaming and digital media. The company also operated businesses in grocery, home security, digital entertainment, smart home, healthcare-adjacent services, and enterprise cloud. Well-known subsidiaries, brands, or business lines associated with Amazon include AWS, Whole Foods Market, Ring, Twitch, Audible, IMDb, MGM-related media assets, One Medical, Amazon Pharmacy, and Project Kuiper.
+
+Several factual points from 2024 give this file more retrieval variety. Amazon joined the Dow Jones Industrial Average in 2024. The company continued scaling AI infrastructure spending and cloud capacity. It also remained active in smart home devices, logistics automation, and media distribution. These additions create useful contrast between finance-oriented chunks, product-oriented chunks, and operational chunks.
+
+Selected company facts and entities relevant to 2024 chunking experiments:
+Amazon founder: Jeff Bezos
+Amazon CEO in 2024: Andy Jassy
+Major cloud business: Amazon Web Services
+Major consumer membership program: Prime
+Selected subsidiaries or brands: Whole Foods Market, Twitch, Ring, Audible, IMDb, One Medical
+Selected devices and platforms: Alexa, Echo, Kindle, Fire TV, Fire tablet, Rufus
+Selected strategic themes in 2024: AI infrastructure, AWS growth, advertising expansion, logistics optimization, retail margin improvement
+
+Analyst-style summary for retrieval testing:
+
+Amazon in 2024 looked increasingly like a multi-engine platform company rather than a pure online retailer. Retail still supplied scale and customer touchpoints, but AWS, advertising, subscriptions, logistics services, and AI-related capabilities helped shape the company's long-term value proposition. A retrieval system should be able to connect questions about cloud computing, same-day delivery, Prime retention, advertising monetization, and consumer devices back to the same underlying company profile.
